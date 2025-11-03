@@ -1,6 +1,3 @@
-*Para la versión en español, por favor desplácese hacia abajo.*
-
----
 
 # 4.-Amenities-Query-from-OSM-and-its-Graphical-Representation-for-Bogota
 
@@ -42,14 +39,23 @@ Before running this script, please ensure you meet the following requirements:
 
 ### Sample of output maps:
 
-The following maps are rendered in low resolution. Fot high resolution and detailed maps by category and type of amenities, please refer to [Detailed Maps](https://github.com/ssilveram/4.-Amenities-Query-from-OSM-and-its-Graphical-Representation-for-Bogota/tree/main/Detailed_Maps)** folder.
+The following maps are rendered in low resolution. Fot high resolution and detailed maps by category and type of amenities, please refer to **[Detailed Maps](https://github.com/ssilveram/4.-Amenities-Query-from-OSM-and-its-Graphical-Representation-for-Bogota/tree/main/Detailed_Maps)** folder.
 
 **Location map of amenities (points):**
 
 ![Map of all Amenities in the city](assets/Map_Point_Amenities-All.png)
 
+**Desity map of amenities by Hexagon (HEX):**
 
+![Density map of Amenities by HEX](assets/Map_HEX_Amenities-All.png)
 
+**Density map of Amenities by Local Planing Unit (UPL):**
+
+![Density map of Amenities by UPL](assets/Map_UPL_Amenities-All.png)
+
+**Density map of Amenities by Locality (LOC):**
+
+![Map of all Amenities in the city](assets/Map_LOC_Amenities-All.png)
 
 
 
