@@ -45,17 +45,15 @@ The following maps are rendered in low resolution. Fot high resolution and detai
 
 ![Map of all Amenities in the city](assets/Map_Point_Amenities-All.png)
 
-**Desity map of amenities by Hexagon (HEX):**
+**Density map of amenities by Hexagon (HEX) and Locality (LOC):**
 
-![Density map of Amenities by HEX](assets/Map_HEX_Amenities-All.png)
+![Density map of Amenities by HEX](assets/Map_HEX_Amenities-All.png) ![Density Map of Amenities by LOC](assets/Map_LOC_Amenities-All.png)
 
-**Density map of Amenities by Local Planing Unit (UPL):**
+**Amenities by Local Planning Unit (UPL):**
 
 ![Density map of Amenities by UPL](assets/Map_UPL_Amenities-All.png)
 
-**Density map of Amenities by Locality (LOC):**
 
-![Map of all Amenities in the city](assets/Map_LOC_Amenities-All.png)
 
 
 
