@@ -5,7 +5,7 @@
 
 ## Main Objective
 
-The objective of this script is to query **OpenStreetMap** for the most important facilities located in Bogotá DC, Colombia. The query is performed for 102 main types of facilities, organized into 9 main categories, as well as 5 social functions and 3 composite indicators used in the 15-minute city concept. The query script 4_1_Amenities_Scn1.R is part of a series of scripts that comprise the Proximity Analysis for the City of Bogotá. "Scn1" refers to the current scenario. Subsequent scripts (7 in total) will implement new amenities where a shortage is identified.
+The objective of this script is to query **OpenStreetMap** for the most important facilities located in Bogotá DC, Colombia. The query is performed for 102 main types of facilities, organized into 9 main **Categories**, as well as 5 **Social functions** and 3 **Composite indicators** used in the 15-minute city concept. The query script 4_1_Amenities_Scn1.R is part of a series of scripts that comprise the Proximity Analysis for the City of Bogotá. "Scn1" refers to the current scenario. Subsequent scripts (7 in total) will implement new amenities where a shortage is identified.
 
 ## Key Processes and Outputs
 
@@ -28,8 +28,12 @@ Before running this script, please ensure you meet the following requirements:
 1. It's recommended to install the `pacman` package, which installs the libraries needed to run the scripts. All step-by-step details are included as comments within the code. The scripts are fully annotated in Spanish, as they are also intended to be shared with Colombian agencies and authorities.
 
 2.  **Initialisation Script:** It is essential to run the `0_Initialization.R` script that accompanies this repository. This file is also used by other scripts within the Master's Thesis Project on Mobility in Bogotá. It centralises the loading of R libraries, the definition of custom functions, and the configuration of the working environment, ensuring consistency between this and other related analyses.
+   
+3.  **OSM_Categories_CSV.csv:** This file contain the ammenities classification by **Category**, **Social Function** and **Composite Indicator** for each type of amenity. Keys and values the OSM queries are also included. The following image shows the table structure of the CSV file, included in the repository:
 
-3.  **Data Sources:** The source geospatial layers, and population are not included in this repository. It's highly recommended run the scripts `1_Geospatial_Standardisation_Bogota.R` and `2_Population.R` included in the Main folder. For details to run each of this scripts, please refer to **[1_Geospatial_Standardisation_Bogota](https://github.com/ssilveram/1.-Standardisation-of-Geospatial-Layers-for-Bogota/tree/main)** and **[2_Population Bogota](https://github.com/ssilveram/1.-Standardisation-of-Geospatial-Layers-for-Bogota/tree/main)** to get the necessary formatted data to run this script correctly.
+![Structured_CSV_Data](assets/Structured_CSV_Data.png)
+
+4.  **Data Sources:** The source geospatial layers, and population are not included in this repository. It's highly recommended run the scripts `1_Geospatial_Standardisation_Bogota.R` and `2_Population.R` included in the Main folder. For details to run each of this scripts, please refer to **[1_Geospatial_Standardisation_Bogota](https://github.com/ssilveram/1.-Standardisation-of-Geospatial-Layers-for-Bogota/tree/main)** and **[2_Population Bogota](https://github.com/ssilveram/1.-Standardisation-of-Geospatial-Layers-for-Bogota/tree/main)** to get the necessary formatted data to run this script correctly.
   
 ## Sample of results
 
