@@ -1,11 +1,11 @@
 
 # 4.-Amenities-Query-from-OSM-and-its-Graphical-Representation-for-Bogota
 
-### Script: `4_1_Amenities_Scn1_Eng.R`
+### Script: `4_1_Amenities_Scn1.R`
 
 ## Main Objective
 
-The objective of this script is to query **OpenStreetMap** for the most important facilities located in Bogotá DC, Colombia. The query is performed for 102 main types of facilities, organized into 9 main categories, as well as 5 social functions and 3 composite indicators used in the 15-minute city concept.
+The objective of this script is to query **OpenStreetMap** for the most important facilities located in Bogotá DC, Colombia. The query is performed for 102 main types of facilities, organized into 9 main categories, as well as 5 social functions and 3 composite indicators used in the 15-minute city concept. The query script 4_1_Amenities_Scn1.R is part of a series of scripts that comprise the Proximity Analysis for the City of Bogotá. "Scn1" refers to the current scenario. Subsequent scripts (7 in total) will implement new amenities where a shortage is identified.
 
 ## Key Processes and Outputs
 
@@ -39,7 +39,7 @@ Before running this script, please ensure you meet the following requirements:
 
 ### Sample of output maps:
 
-The following maps are rendered in low resolution. Fot high resolution and detailed maps by category and type of amenities, please refer to **[Detailed Maps](https://github.com/ssilveram/4.-Amenities-Query-from-OSM-and-its-Graphical-Representation-for-Bogota/tree/main/Detailed_Maps)** folder.
+The following maps are rendered in low resolution. For high resolution and detailed maps by category and type of amenities, please refer to **[Detailed Maps](https://github.com/ssilveram/4.-Amenities-Query-from-OSM-and-its-Graphical-Representation-for-Bogota/tree/main/Detailed_Maps)** folder.
 
 **Location map of amenities (points):**
 
