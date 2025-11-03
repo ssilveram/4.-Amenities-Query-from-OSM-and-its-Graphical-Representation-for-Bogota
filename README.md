@@ -69,7 +69,7 @@ The density maps of amenities can be created in any of the different administrat
 
 ### 3D Rendering maps ###
 
-Sometimes it can be useful to create 3D maps to better visualize the details. Some 3D maps have been created and can be found in the **[Detailed Maps](https://github.com/ssilveram/4.-Amenities-Query-from-OSM-and-its-Graphical-Representation-for-Bogota/tree/main/Detailed_Maps)** folder. Below are two 3D maps created with this script: 1) Number of universities per hexagon area, and 2) Number of jobs per 10,000 workers living in the locality (LOC). The function for creating the 3D maps is included in the `0_Initialization.R` initialization script, which is part of this repository. 
+Sometimes it can be useful to create 3D maps to better visualise the details. Some 3D maps have been created and can be found in the **[Detailed Maps](https://github.com/ssilveram/4.-Amenities-Query-from-OSM-and-its-Graphical-Representation-for-Bogota/tree/main/Detailed_Maps)** folder. Below are two 3D maps created with this script: 1) Number of universities per hexagon area, and 2) Number of jobs per 10,000 workers living in the locality (LOC). The function for creating the 3D maps is included in the `0_Initialization.R` initialization script, which is part of this repository. 
 
 ![Density Graph of Amenities by 10k inhabitants](assets/Map_HEX_Amenities_3D-University.png) ![Density Graph of Amenities by 10k inhabitants](assets/Map_LOC_Amenities_3D-Job_places_by_10k_workers.png)
 
