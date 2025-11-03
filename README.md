@@ -63,7 +63,7 @@ The density maps of amenities can be created in any of the different administrat
 
 ![Density Graph of Amenities by 10k inhabitants](assets/Graph_UPL_Amenities_Population.png)
 
-**Example of how show the amenities deficit in some UPLs in Bogota:**
+**Example of how show the amenities deficit in some UPLs in Bogota. Universities by UPL:**
 
 ![Universitys by UPL](assets/Graph_UPL_Amenities-University.png)
 
