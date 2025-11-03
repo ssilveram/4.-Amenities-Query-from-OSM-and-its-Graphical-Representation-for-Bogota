@@ -51,10 +51,15 @@ The following maps are rendered in low resolution. Fot high resolution and detai
 
 **Amenities by Local Planning Unit (UPL):**
 
-![Density map of Amenities by UPL](assets/Map_UPL_Amenities-All.png)
+![Density map of Amenities by UPL](assets/Graph_UPL_Amenities-All.png)
 
+**Amenities by each 10k Inhabitants:**
 
+![Density Graph of Amenities by 10k inhabitants](assets/Graph_UPL_Amenities_Population.png)
 
+**Example of how show the amenities deficit in some UPLs in Bogota:**
+
+![Universitys by UPL](assets/Graph_UPL_Amenities-University.png)
 
 
 ## Technologies used
