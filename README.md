@@ -51,7 +51,7 @@ The following maps are rendered in low resolution. For high resolution and detai
 
 **Density map of amenities by Area:**
 
-The density maps of amenities can be created in any of the different administrative areas of the city showed in [1.-Standardisation-of-Geospatial-Layers-for-Bogota](https://github.com/ssilveram/1.-Standardisation-of-Geospatial-Layers-for-Bogota): Municipality (MPIO), Locality (LOC), Local Planning Unit (UPL), Territorial Units for Mobility Analysis (UTAM), Transport Analysis Zones (ZAT), Sectors (SECT), Sections (SECC), 500m diameter hexagonal grid (HEX), City Block (MNZ). Following you can find the largest administrative area LOC and, and the second smallest of the areas: HEX.
+The density maps of amenities can be created in any of the different administrative areas of the city showed in [1.-Standardisation-of-Geospatial-Layers-for-Bogota](https://github.com/ssilveram/1.-Standardisation-of-Geospatial-Layers-for-Bogota): Municipality (MPIO), Locality (LOC), Local Planning Unit (UPL), Territorial Units for Mobility Analysis (UTAM), Transport Analysis Zones (ZAT), Sectors (SECT), Sections (SECC), 500m diameter hexagonal grid (HEX). Following you can find the largest administrative area LOC and, and the second smallest of the areas: HEX.
 
 ![Density Map of Amenities by LOC](assets/Map_LOC_Amenities-All.png) ![Density map of Amenities by HEX](assets/Map_HEX_Amenities-All.png)
 
